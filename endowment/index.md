@@ -1,4 +1,4 @@
-# What is an endowment? 
+### What is an endowment? 
 
 An endowment is a gift that keeps on giving. Invested money can earn interest.
 
