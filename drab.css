@@ -48,7 +48,7 @@ nav ul li, footer ul li {
 }
 a {
     text-decoration: none;
-    color: #999;
+    color: #000b95;
 }
 a:hover {
     text-decoration: underline;
@@ -113,3 +113,13 @@ table, th, td{
 tr:nth-child(even) {
     background-color: #d5d5d5;
 }
+
+
+
+
+h1.h1header a{
+    color:black;
+}
+
+
+
