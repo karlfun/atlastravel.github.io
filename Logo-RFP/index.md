@@ -1,25 +1,7 @@
 ### We need a logo!
 
 
-**Travel changes people. Changed people change the world.** When you realize that the world is smaller than you thought, and that different cultures have more in common than not, a world of possibility opens up. We see people from other cultures not as “others” but as different versions of ourselves, living rich, valid lives in their own ways. 
-
-Travel creates global citizens:
-
-* Preparing the next generation 
-* Strengthening our workforce
-* Equipping students with skills that make them more adaptable to diverse challenges and situations.
-
-**Target Audiences:**
-
-Fundraising:
-* Corporate & business donors
-* Individual donors
-* Charitable foundations & family foundations
-
-Applicants & Educators
-* Students
-* Parents
-* Teachers & school counselors
+**Travel changes people. Changed people change the world.** When you realize that the world is smaller than you thought, and that different cultures have more in common than not, a world of possibility opens up. We see people from other cultures not as “others” but as different versions of ourselves, living rich, valid lives in their own ways. Travel creates global citizens: preparing the next generation; strengthening our workforce; and equipping students with skills that make them more adaptable to diverse challenges and situations.
 
 Atlas Travel Foundation scholarships will be open to youth and young adults in Shawnee County applying for educational travel programs. We hope to raise a large principal sum which will serve as an endowment. This endowment will earn interest every year, from that interest we will award scholarships. Donors who support the principal investment aren't just investing in _one_ scholarship this year. They are investing in a new scholarship, every year, for as long as the foundation lives.  
 
@@ -31,7 +13,7 @@ Atlas Travel Foundation scholarships will be open to youth and young adults in S
 | **Goals and objectives** |
 | Attract students to apply for travel scholarships; Attract donors (individuals, foundations, local companies) to give funds to support the scholarship foundation. |
 | **Audiences** |
-| Student applicants; Donors; Educators |
+| Fundraising: Individual donors, Corporate and business donors, charitable foundations and family trusts. Applicants and Educators: students, parents, teachers and school counselors. |
 | **Messaging and Tone** |
 | The Atlas Travel Foundation believes travel is exciting, broadens the mind, and shows us that the world is both large and small at the same time.  Messaging should underscore the ability for travel to change how we approach the world, while the tone should emphasize feelings of joy, awe, and wonder travel creates. |
 | **Assets and deliverables** |
