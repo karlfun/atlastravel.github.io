@@ -10,7 +10,7 @@ Atlas Travel Foundation scholarships will be open to youth and young adults in S
 | ------         |
 | **The problem** |
 | Shawnee County is more than 1,000 miles from any other country. It’s difficult and expensive for students to travel and experience other cultures. Atlas Travel Foundation knows the value of this, and wants to help Shawnee County kids explore the world!|
-| **Goals and objectives** |
+| **Objectives** |
 | Attract students to apply for travel scholarships; Attract donors (individuals, foundations, local companies) to give funds to support the scholarship foundation. |
 | **Audiences** |
 | Fundraising: Individual donors, Corporate and business donors, charitable foundations and family trusts. Applicants and Educators: students, parents, teachers and school counselors. |
@@ -24,3 +24,5 @@ Atlas Travel Foundation scholarships will be open to youth and young adults in S
 | $1000 USD |
 | **Contacts** |
 | Board of Directors |
+
+Our Mission is to award scholarships to Shawnee County students and young adults participating in international travel programs in order to inspire intellectual curiosity, cultivate gloabl awareness, and build respect for other cultures. If you would like to respond to this Request for Proposals, please send your pitch to hello@atlastravelfoundation.org. 
