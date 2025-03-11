@@ -25,4 +25,6 @@ Atlas Travel Foundation scholarships will be open to youth and young adults in S
 | **Contacts** |
 | Board of Directors |
 
-Our Mission is to award scholarships to Shawnee County students and young adults participating in international travel programs in order to inspire intellectual curiosity, cultivate global awareness, and build respect for other cultures. If you would like to respond to this Request for Proposals, please send your pitch to hello@atlastravelfoundation.org. 
+Our Mission is to award scholarships to Shawnee County students and young adults participating in international travel programs in order to inspire intellectual curiosity, cultivate global awareness, and build respect for other cultures. 
+
+If you would like to respond to this Request for Proposals, please send your pitch, including work samples and your standard rate, to hello@atlastravelfoundation.org. 
