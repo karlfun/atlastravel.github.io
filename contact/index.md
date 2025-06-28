@@ -1,5 +1,11 @@
 ## Support the Foundation
 
+<a href="https://donate.stripe.com/aFa4gz5lTa4peTyeDA2Fa00">Make a contribution to the Atlas Travel Foundation Scholarship Endowment Fund &raquo;</a>
+
+
+# Sign up for email updates
+
+
 While we build out capacity for fundraising and marketing, please sign up for our email newsletter for future updates! 
 
 
