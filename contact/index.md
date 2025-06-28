@@ -13,7 +13,7 @@ Donations to our Endowment Fund will support scholarships well into the future. 
 
 <div id="mc_embed_signup">
     <form action="https://atlastravelfoundation.us22.list-manage.com/subscribe/post?u=12dd25a3d7c624a4a68329f50&amp;id=5c34918c06&amp;f_id=00d5c2e1f0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank">
-        <div id="mc_embed_signup_scroll"><h3>Subscribe</h3>
+        <div id="mc_embed_signup_scroll"><h3>Subscribe for email updates from Atlas Travel Foundation</h3>
             <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
             <div class="mc-field-group"><label for="mce-EMAIL">Email Address <span class="asterisk">*</span></label><input type="email" name="EMAIL" class="required email" id="mce-EMAIL" required="" value=""></div>
         <div id="mce-responses" class="clear foot">
