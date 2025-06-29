@@ -6,7 +6,7 @@ Your donation will earn interest for as long as the organization exists!
 <a href="https://donate.stripe.com/aFa4gz5lTa4peTyeDA2Fa00">Make a contribution &raquo;</a>
 
 
-
+---
 
 
 <div id="mc_embed_shell">
