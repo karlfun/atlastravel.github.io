@@ -1,4 +1,4 @@
-<p style="clear:both;">Atlas Travel Foundation is a Topeka-based nonprofit organization established in 2024. Our Mission is to award scholarships to Shawnee County students and young adults participating in international travel programs in order to inspire intellectual curiosity, cultivate global awareness, and build respect for other cultures.</p>
+<p style="clear:both;">Atlas Travel Foundation is a nonprofit organization established in 2024 in Topeka, Kansas. Our Mission is to award scholarships to Shawnee County youth and young adults participating in international travel programs in order to inspire intellectual curiosity, cultivate global awareness, and build respect for other cultures.</p>
 
 **Travel changes people. Changed people change the world.** Travel creates global citizens: preparing the next generation; strengthening our workforce; and equipping students with skills that make them more adaptable to diverse challenges and situations. Topeka is 1,000 miles from any other country. We hope to make it a little easier for young people from our community to see a different part of the world. 
 
