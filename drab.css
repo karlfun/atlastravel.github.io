@@ -153,6 +153,7 @@ h1.h1header a{
 }
 
 #headernav{
-    clear:right;
+    float:none;
+    padding-bottom:1.5em;
 }
 
