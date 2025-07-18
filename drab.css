@@ -72,7 +72,13 @@ h1 {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     float:none;
     clear:both;
+    word-wrap: normal;
 }
+
+h2, h3{
+    word-wrap: normal;
+}
+
 p {
     font-size: 1rem;
     line-height: 1.3rem;
