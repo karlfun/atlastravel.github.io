@@ -44,7 +44,7 @@ Atlas Travel Foundation is a federally-recognized 501(c)(3) public charity. Your
 
 ---
 
-# Follow our social accounts
+## Follow our social accounts
 
 Like our <a href="https://www.facebook.com/people/Atlas-Travel-Foundation/61577091345851/#">Facebook page</a>. 
 
