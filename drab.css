@@ -16,12 +16,13 @@ body {
     #logo{width:450px; margin:0 auto; clear:right;}
     .h1header{float:none; clear:right;}
     .navlink{padding-bottom:1.5em; font-weight:bold; font-size:1.25em;}
-    #headernav{clear:right;}
+
     a.navlink {
       padding: 1em;
       background-color: #dddddd;
       width: 100%;
-      margin-bottom: 0.5em;
+      margin-bottom: 0.5em;}
+
 }
 
 @media (min-width: 400px) {
@@ -145,6 +146,8 @@ h1.h1header a{
  a.navlink{
      padding-right:1.5em;
  }   
+
+#navbuttons{float:none;}
 
 #headernav{
     clear:right;
