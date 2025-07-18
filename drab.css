@@ -147,7 +147,10 @@ h1.h1header a{
      padding-right:1.5em;
  }   
 
-#navbuttons{float:none;}
+#navbuttons{
+    float:none;
+    padding:0 1.5em 1em 0;
+}
 
 #headernav{
     clear:right;
