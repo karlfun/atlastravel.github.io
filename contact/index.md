@@ -1,6 +1,6 @@
 ## Support the Foundation
 
-### Consider a life-changing gift to the Atlas Travel Foundation
+### Make a life-changing gift
 
 Donations to our Endowment Fund will support scholarships well into the future. 
 Your donation will earn interest for as long as the organization exists!
