@@ -142,6 +142,9 @@ h1.h1header a{
      display:inline-block; float:left; padding-right:1.5em;
  }
 
+ a.navlink{
+     padding-right:1.5em;
+ }   
 
 #headernav{
     clear:right;
